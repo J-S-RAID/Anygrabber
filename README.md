@@ -20,9 +20,5 @@ Anygrabber es una herramienta que detecta conexiones establecidas de AnyDesk y o
 - `requests`: Para realizar solicitudes HTTP a la API de `ip-api.com`.
 - `pystyle`: Para estilos adicionales en la consola.
 
-### Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/J-S-RAID/Anygrabber.git
-   cd Anygrabber
+BY J-S
+discord z_js_z

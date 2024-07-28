@@ -1,3 +1,4 @@
+nota: si te aparecen una o dos ip's al principo son los intermediarios de anydesk la tercera ip es la del usuario que se conecto
 # Anygrabber
 
 ## Descripción
